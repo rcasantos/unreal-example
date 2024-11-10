@@ -1,0 +1,29 @@
+# Configurações específicas do sistema
+*.log
+*.temp
+*.csproj
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.code-workspace
+
+# Arquivos temporários e de cache
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Git LFS - Rastreando arquivos grandes da Unreal
+*.uasset
+*.umap
+
+# Outros arquivos gerados automaticamente
+*.pidb
+*.VC.db
+*.VC.opendb
